@@ -1,0 +1,33 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+.pure-button {
+    background-color: #BDC3C7;
+    color: black;
+    padding: 0.5em 2em;
+    border-radius: 5px;
+}
+
+a.pure-button-primary {
+    background: #BDC3C7;
+    color: black;
+    border-radius: 5px;
+    font-size: 120%;
+}
+html, body {
+    height: 100%;
+    background: #b564ac;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
